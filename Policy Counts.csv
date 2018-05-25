@@ -1,0 +1,8 @@
+Policy Area,Reddit Comments,Tweets,Reddit Submissions,Tweet Replies,Favourited Tweets,Retweets,Positive sentiments,Negative sentiments,Neutral sentiments,Policy Area
+education,1,8,1,0,12,41,8,1,1,education
+health,0,5,0,0,179,158,3,1,1,health
+housing,4,8,0,0,18,6,7,2,3,housing
+social,9,3,0,0,6,1,6,4,2,social
+transport,46,17,1,1,50,66,32,15,18,transport
+waste,0,6,0,0,29,28,6,0,0,waste
+water,7,10,0,0,32,68,10,4,3,water
